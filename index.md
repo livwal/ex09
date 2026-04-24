@@ -29,3 +29,5 @@ Second Graph: I displayed the counts of several majors, including Neuroscience M
 
 Third Graph: I compared the responses to programming_effective of all majors to Neuroscience Majors.
 <img src="static/imgs/second_graph.png" alt="Second Graph "  width="500"/>
+<img src="static/imgs/first_graph.png" alt="First Graph "  width="500"/>
+<img src="static/imgs/third_graph.png" alt="Third Graph "  width="500"/>
