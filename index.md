@@ -22,12 +22,14 @@ The idea I chose to analyze was: The course should include examples from Neurosc
 I chose this because: There is a concrete number of neuroscience majors who are taking the course, and it is one of the largest populations of students taking this course, followed by biology.
 
 First Graph: I found the avergae interest rates in class content for all majors and compared to Neuroscience majors.
-
+<img src="static/imgs/first_graph.png" alt="First Graph "  width="500"/>
 
 Second Graph: I displayed the counts of several majors, including Neuroscience Majors in the COMP110 course.
-
+<img src="static/imgs/second_graph.png" alt="Second Graph "  width="500"/>
 
 Third Graph: I compared the responses to programming_effective of all majors to Neuroscience Majors.
-<img src="static/imgs/second_graph.png" alt="Second Graph "  width="500"/>
-<img src="static/imgs/first_graph.png" alt="First Graph "  width="500"/>
+
 <img src="static/imgs/third_graph.png" alt="Third Graph "  width="500"/>
+
+Conclusion:
+I believe that my data analysis is either inconclusive or does not support my idea because the differences between Neuroscience Majors and other groups are not very large. For example, the differences between all majors and NSCI majors on average interestingness is only tenths away from each other. In my third visualization, the difference in finding the programming assignments effective is very small between all majors versus neuroscience majors. Upon reflection, I think my data is inconclusive because I would need to know if there is a statistically significant difference between the group comparisons because the differences are so small. To better understand this, we could collect data specifically asking the question, "Do you think you would find the assignments more effective if the content pertained to your major?" or the same question but with finding ti interesting. Doing this code writing and visualization after these questions may yield more clear results. Potential costs for this topic area would be that changing course content may not really align with the skills and methods taught at that time, moreover, the data may be too advanced for the beginning part of this course. This would be a trade-off: more interesting material for a good chunk of the class, but it may be too advanced for the time being. Stakeholders that may be negatively affected by this change are all the other majors that aren't neuroscience that have to complete assignments pertaining to this subject area and don't find it interesting.
